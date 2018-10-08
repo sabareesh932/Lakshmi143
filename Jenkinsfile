@@ -8,7 +8,7 @@ pipeline {
     }
     stage('describe') {
       steps {
-        echo 'hai this is a cocean project.'
+        echo 'hai this is a cokmnlo;kl,./cean project.'
       }
     }
   }
